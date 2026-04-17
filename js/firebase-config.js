@@ -3,13 +3,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebas
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics.js";
 import { getAuth } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
 const firebaseConfig = {
-  apiKey: "---",
-  authDomain: "---",
-  projectId: "---",
-  storageBucket: "---",
-  messagingSenderId: "---",
-  appId: "---",
-  measurementId: "---"
+  apiKey: "xxx",
+  authDomain: "xxx",
+  projectId: "xxx",
+  storageBucket: "xxx",
+  messagingSenderId: "xxx",
+  appId: "xxx",
+  measurementId: "xxx"
 };
 
 const app = initializeApp(firebaseConfig);
